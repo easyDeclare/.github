@@ -25,7 +25,7 @@ doi = {https://doi.org/10.1016/j.is.2025.102667}
 }
 ```
 
----
+
 
 ## Repositories
 
@@ -33,7 +33,6 @@ doi = {https://doi.org/10.1016/j.is.2025.102667}
 
 - [templates](https://github.com/easyDeclare/templates) Official image library of easyDeclare graphical templates (SVG, PDF).
 
----
 
 ## About easyDeclare
 
@@ -42,13 +41,13 @@ The notation has been validated through expert interviews and controlled experim
 
 Find out more about easyDeclare in our [research paper](https://github.com/easyDeclare/paper-artifacts/blob/main/EasyDeclare__Camera_Ready_.pdf).
 
----
+
 
 ## Contributing
 
 If you wish to propose improvements, new templates, or features for the EDD tool, please open an issue or submit a pull request in the relevant repository.
 
----
+
 
 ## License
 
