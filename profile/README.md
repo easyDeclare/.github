@@ -2,11 +2,12 @@
 
 Welcome to the official GitHub organization for **easyDeclare** — a visual notation for declarative process modeling, designed to improve understandability and reduce cognitive load compared to traditional [Declare](https://www.win.tue.nl/declare/) notation.
 
-This organization hosts all the tools, and resources associated with easyDeclare, as described in our research paper:
+This organization hosts all the tools, and resources associated with easyDeclare, as described in our paper:
 
 > *G. Blasilli, L. S. Ferro, S. Lenti, F. M. Maggi, A. Marrella, and T. Catarci*. 
 Improving the Understandability of Declarative Process Discovery Results Using easyDeclare.
-*Information Systems, 2026*.
+*Information Systems, 2025*. [https://doi.org/10.1016/j.is.2025.102667](https://doi.org/10.1016/j.is.2025.102667)
+> easyDeclare
 
 
 ## Citation
@@ -14,16 +15,19 @@ Improving the Understandability of Declarative Process Discovery Results Using e
 If you use easyDeclare in your work, please cite the following paper:
 ```
 @article{easyDeclare,
-  title={Improving the Understandability of Declarative Process Discovery Results Using easyDeclare},
-  author={Blasilli, Graziano and Ferro, Lauren Stacey and Lenti, Simone and Maggi, Fabrizio Maria and Marrella, Andrea and Catarci, Tiziana},
-  journal = {Information Systems},
-  year={2026}
+title = {Improving the understandability of declarative process discovery results using easyDeclare},
+author = {Graziano Blasilli and Lauren S. Ferro and Simone Lenti and Fabrizio Maria Maggi and Andrea Marrella and Tiziana Catarci},
+journal = {Information Systems},
+pages = {102667},
+year = {2025},
+issn = {0306-4379},
+doi = {https://doi.org/10.1016/j.is.2025.102667}
 }
 ```
 
 ---
 
-## 📦 Repositories
+## Repositories
 
 - [edd](https://github.com/easyDeclare/edd) Web-based modeling tool (*easyDeclare Designer*) to visually create and edit easyDeclare models. 
 
@@ -40,13 +44,13 @@ Find out more about easyDeclare in our [research paper](https://github.com/easyD
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
 If you wish to propose improvements, new templates, or features for the EDD tool, please open an issue or submit a pull request in the relevant repository.
 
 ---
 
-## 📄 License
+## License
 
 Unless otherwise specified, all content in this organization is released under the GNU GPLv3 License (software) or CC BY 4.0 License (documentation and templates).
 
